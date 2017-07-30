@@ -1,4 +1,4 @@
-/* XDXdPokwered by PACE */
+/*  test XDXdPokwered by PACE */
 .pace {
   -webkit-pointer-events: none;
   pointer-events: none;
@@ -23,7 +23,7 @@
 
 .pace .pace-progress-inner {
   display: block;
-  position: absolute;
+  /*position: absolute;*/
   right: 0px;
   width: 100px;
   height: 100%;
