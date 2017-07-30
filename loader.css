@@ -1,4 +1,4 @@
-/* Pokwered by PACE */
+/* XXPokwered by PACE */
 .pace {
   -webkit-pointer-events: none;
   pointer-events: none;
@@ -18,12 +18,12 @@
   top: 0;
   right: 100%;
   width: 100%;
-  height: 7px;
+  height: 2px;
 }
 
 .pace .pace-progress-inner {
   display: block;
-  position: absolute;
+  /*position: absolute;*/
   right: 0px;
   width: 100px;
   height: 100%;
